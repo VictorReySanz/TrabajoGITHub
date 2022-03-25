@@ -1,3 +1,6 @@
+/*
+ * Victor Rey Sanz
+ */
 package practica1T6;
 
 import java.io.*;
